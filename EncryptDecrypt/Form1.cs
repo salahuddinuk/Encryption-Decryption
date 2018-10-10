@@ -15,8 +15,8 @@ namespace EncryptDecrypt
     public partial class Form1 : Form
     {
         static readonly string PasswordHash = "P!!Sw0rd~";
-        static readonly string SaltKey = "SaLT~~KEY";
-        static readonly string VIKey = "@1B2c3D4e5F6>7H8<.";
+        static readonly string SaltKey = "Sa~LT~KEY";
+        static readonly string VIKey = "@1B2c3D4@e5F6<7H8<.";
         public Form1()
         {
             InitializeComponent();
